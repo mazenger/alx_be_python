@@ -4,4 +4,4 @@ time = 3
 
 interest = (principal * rate * time)
 
-print("Simple Interest is", interest)
+print("The simple Interest is", interest)
